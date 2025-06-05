@@ -1,0 +1,45 @@
+h1{
+    background-color:darkgreen;
+    border-style:dotted;
+    border-width: 9px; 
+    border-color:dodgerblue;
+    border-radius: 9px;   
+}
+h2{
+    text-shadow: 3px 10px 4px yellow;
+}
+h3{
+    text-shadow: -6px -12px 2px yellow;
+}
+
+#box1{
+    width: 100px;
+    height: 92px;
+    background-color: gray;
+    box-shadow: 7px 7px 7px;
+}
+
+body{
+    background-color:darkmagenta;
+}
+
+#p1{
+    border-bottom: 4px solid rgb(245, 245, 12);
+    border-top: 7px solid rgb(230, 93, 216);
+    border-left: 3px dotted greenyellow;
+    border-right: 9px dashed rgb(198, 54, 54);
+    border-radius: 10px;
+}
+
+#p2{
+    border-bottom: 6px solid yellow;
+    border-top:    6px solid yellow;
+    border-left:   3px solid blueviolet;
+    border-right:  3px solid blueviolet;
+    border-radius: 20px;
+}
+
+#p3{
+    border: 10px dotted black;
+    border-radius: 20px;
+}
